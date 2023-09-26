@@ -1,11 +1,11 @@
 - Hi, I'm Artur!👋
-- I am recently transitioning to become a Full Stack Web development
-- I have a diverse background - 💬ask me about Antarctica🥶 and how to groom you Poodle🐩!
-- I'm really passionet about new horizons that AI🤖 may provide
-- I'm currently learning: React, Next.js, JavasCript & TypeScript.
-- Happy to collaborate on exiting projects (especialy if AI involved!)
+- Just graduated🎓 from [Lighthouse Labs](https://www.lighthouselabs.ca/) Bootcamp as Full Stack Web development.
+- I have a diverse background - 💬ask me about Antarctica🥶 and how to groom your Poodle🐩!
+- I'm really passionate about the new horizons that AI🤖 may provide.
+- I'm currently learning: React, Next.js, JavasCript & TypeScript.🌱
+- I'm happy to collaborate on exciting projects, especially if AI is involved!
 - You can reach me at [mr.arturio@gmail.com](mr.arturio@gmail.com) or on my [LinkedIn](https://www.linkedin.com/in/artur-tereshchenko-968934199/) <br>
-  -PS: check my last project [DreamTales](https://github.com/mr-Arturio/DreamTales)
+  -PS: Check out my latest project [DreamTales](https://github.com/mr-Arturio/DreamTales)
 
 <!--
 **mr-Arturio/mr-Arturio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
