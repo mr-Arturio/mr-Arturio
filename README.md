@@ -4,7 +4,7 @@
 - I'm really passionet about new horizons that AI🤖 may provide
 - I'm currently learning: React, Next.js, JavasCript & TypeScript.
 - Happy to collaborate on exiting projects (especialy if AI involved!)
-- You can reach me at [mr.arturio@gmail.com](mr.arturio@gmail.com) or on my [LinkedIn](https://www.linkedin.com/in/artur-tereshchenko-968934199/)
+- You can reach me at [mr.arturio@gmail.com](mr.arturio@gmail.com) or on my [LinkedIn](https://www.linkedin.com/in/artur-tereshchenko-968934199/) <br>
   -PS: check my last project [DreamTales](https://github.com/mr-Arturio/DreamTales)
 
 <!--
