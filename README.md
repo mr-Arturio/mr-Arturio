@@ -5,7 +5,7 @@
 - I'm currently learning: React, Next.js, JavasCript & TypeScript.🌱
 - I'm happy to collaborate on exciting projects, especially if AI is involved!
 - You can reach me at [mr.arturio@gmail.com](mr.arturio@gmail.com) or on my [LinkedIn](https://www.linkedin.com/in/artur-tereshchenko-968934199/) <br>
-  -PS: Check out my latest project [DreamTales](https://github.com/mr-Arturio/DreamTales)
+  -PS: Check out my latest project [DreamTales](https://github.com/mr-Arturio/DreamTales) <br>
   -PPS: 🔥🔥**I'm thrilled to share that I am eligible for a 12-week wage subsidy from [Lighthouse Labs](https://www.lighthouselabs.ca/) for my future employee!!** 🙌
 
 <!--
