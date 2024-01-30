@@ -6,7 +6,6 @@
 - I'm happy to collaborate on exciting projects, especially if AI is involved!
 - You can reach me at [mr.arturio@gmail.com](mr.arturio@gmail.com) or on my [LinkedIn](https://www.linkedin.com/in/arturtereshchenko/) <br>
   -PS: Check out my latest project [DreamTales](https://github.com/mr-Arturio/DreamTales) - ***winner in one of the Categories at [AI Tinkerers’](https://ottawa.tinkerer.ai/) first generative AI hackathon in Ottawa in November 2023!**<br>
-  -PPS: 🔥🔥**I'm thrilled to share that I am eligible for a 12-week wage subsidy from [Lighthouse Labs](https://www.lighthouselabs.ca/) for my future employee!!** 🙌
 
 <!--
 **mr-Arturio/mr-Arturio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
