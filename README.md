@@ -1,11 +1,9 @@
 - Hi, I'm Artur!👋
-- Just graduated🎓 from [Lighthouse Labs](https://www.lighthouselabs.ca/) Bootcamp as Full Stack Web development.
-- I have a diverse background - 💬ask me about Antarctica🥶 and how to groom your Poodle🐩!
-- I'm passionate about the new horizons that AI🤖 may provide.
-- I am currently working on a project using React Native, Node.js, Express, MongoDB, and incorporating OpenAI models.
+- I am a Full-Stack Developer at [Bbox.digital](https://www.bbox.digital/)
+- Currently working with *Next.js* and *Tailwind*, and honing my skills in *TypeScript* and *Firebase*.
 - I'm happy to collaborate on exciting projects, especially if AI is involved!
 - You can reach me at [mr.arturio@gmail.com](mr.arturio@gmail.com) or on my [LinkedIn](https://www.linkedin.com/in/arturtereshchenko/) <br>
-  -PS: Check out my latest project [DreamTales](https://github.com/mr-Arturio/DreamTales) - ***winner in one of the Categories at [AI Tinkerers’](https://ottawa.tinkerer.ai/) first generative AI hackathon in Ottawa in November 2023!**<br>
+  -PS: Check out my latest open source project for the Ottawa non-profit organization [The Incredible Playgroup Finder](https://github.com/mr-Arturio/DreamTales) - ***app designed to connect Ottawa parents with local playgroup events. Give it a try!**<br>
 
 <!--
 **mr-Arturio/mr-Arturio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
