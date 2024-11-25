@@ -3,7 +3,7 @@
 - Currently working with *Next.js* and *Tailwind*, and honing my skills in *TypeScript* and *Firebase*.
 - I'm happy to collaborate on exciting projects, especially if AI is involved!
 - You can reach me at [mr.arturio@gmail.com](mr.arturio@gmail.com) or on my [LinkedIn](https://www.linkedin.com/in/arturtereshchenko/) <br>
-  -PS: Check out my latest open source project for the Ottawa non-profit organization [The Incredible Playgroup Finder](https://github.com/mr-Arturio/DreamTales) - ***app designed to connect Ottawa parents with local playgroup events. Give it a try!**<br>
+  -PS: Check out my latest open source project for the Ottawa non-profit organization [The Incredible Playgroup Finder](https://www.incredibleplaygroupfinder.ca/) - ***app designed to connect Ottawa parents with local playgroup events. Give it a try!**<br>
 
 <!--
 **mr-Arturio/mr-Arturio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
