@@ -1,5 +1,5 @@
 - Hi, I'm Artur!👋
-- I am a Full-Stack Developer working on an open-source project for the Ottawa non-profit organization [The Incredible Playgroup Finder](https://www.incredibleplaygroupfinder.ca/en) - ***app designed to connect Ottawa parents with local playgroup events. Give it a try!**<br>
+- I am a Full-Stack Developer working on an open-source project for the Ottawa non-profit organization [The Incredible Playgroup Finder](https://www.incredibleplaygroupfinder.ca/en) - **app designed to connect Ottawa parents with local playgroup events. Give it a try!**<br>
 - Currently working with *Next.js* and *Tailwind*, and honing my skills in *TypeScript* and *GenAI*. 
 - I'm happy to collaborate on exciting projects, especially if AI is involved!
 - You can reach me at [mr.arturio@gmail.com](mr.arturio@gmail.com) or on my [LinkedIn](https://www.linkedin.com/in/arturtereshchenko/) <br>
